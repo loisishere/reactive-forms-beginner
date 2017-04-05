@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class LogPage {
+export class ReactiveFormsBeginnerPage {
   navigateTo() {
     return browser.get('/');
   }

@@ -1,10 +1,10 @@
-import { LogPage } from './app.po';
+import { ReactiveFormsBeginnerPage } from './app.po';
 
-describe('log App', () => {
-  let page: LogPage;
+describe('reactive-forms-beginner App', () => {
+  let page: ReactiveFormsBeginnerPage;
 
   beforeEach(() => {
-    page = new LogPage();
+    page = new ReactiveFormsBeginnerPage();
   });
 
   it('should display message saying app works', () => {
