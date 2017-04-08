@@ -5,3 +5,5 @@ export interface Address {
     State       : any,
     Country     : any
 }
+
+export default Address;
